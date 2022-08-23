@@ -2,4 +2,22 @@ Hello World!
 Just doing some practice creating a local repo and pushing it to Github to 
 make sure I've got this down.
 
+Update 1:
+html examples <a> </a> Opening and closing anchor.
+h1 - headline one, only use one of these per website.
 
+example of https code:
+<div id = 'background'> creates a id type "background" that can be changed
+and edited in css for coloring and styling etc.
+
+<h1> Anything goes, when anyone goes anywhere. </h1> creates a headline, 
+the largest font when only using base html (styling in css can adjust this 
+however)
+
+<div class = "p12"> creates a class that can hold multiple things such as 
+paragraphs (<p> which can change multiple paragraphs at once in css.)
+<p> When I go anywhere, and you go nowhere, we all get somewhere as fast as
+I can run backward in a canoe.</p> 
+
+This code, if you remove my notes of course, can be ran and will display very
+basic things on the webpage (specifically, just text.)
